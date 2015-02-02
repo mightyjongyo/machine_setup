@@ -1,0 +1,25 @@
+- link:
+    ~/.bashrc: bashrc
+    ~/.vim/autoload: 
+      create: true
+      path:   autoload
+    ~/.vim/bundle:
+      create: true
+      path:   bundle
+    /opt/sublime_text_3: sublime_text_3/
+    /usr/bin/sublime: /opt/sublime_text_3/sublime_text
+    /usr/share/applications/sublime.desktop: sublime.desktop
+    ~/.config/sublime-text-3:
+      create: true
+      path:   sublime-text-3/
+    ~/.subversion/config:
+      create: true
+      force:  true
+      path:   svn-config
+    ~/.subversion/servers:
+      create: true
+      force:  true
+      path:   svn-servers
+
+- shell:
+    - [git update-submodules, Installing/updating submodules]
