@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sublime Text 3
+Exec=sublime
+Terminal=false
+Icon=/opt/sublime_text_3/Icon/48x48/sublime-text.png
+Type=Application
+Categories=TextEditor;IDE;Development

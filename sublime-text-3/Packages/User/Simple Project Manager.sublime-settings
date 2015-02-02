@@ -1,0 +1,89 @@
+{
+	"projects":
+	{
+		"garibaldi-f20":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/mc"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/scripts"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/ORCDatachain"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/cmake"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/EdmReader"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/libFQ"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/opalkelly"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/ufo"
+				},
+				{
+					"follow_symlinks": true,
+					"path_eng-clan.morphodetection.com": "/home/clan/workspace/garibaldi-f20/recon-wrapper"
+				}
+			]
+		},
+		"garibaldi-trunk":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/mc"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/scripts"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/ORCDatachain"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/cmake"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/EdmReader"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/libFQ"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/opalkelly"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/ufo"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/clan/workspace/garibaldi-trunk/recon-wrapper"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/User/Galea (SL).tmTheme",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Centurion.sublime-theme",
+	"word_wrap": true,
+	"wrap_width": 81
+}

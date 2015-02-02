@@ -1,0 +1,509 @@
+{
+	"folder_history":
+	[
+		"/home/clan/workspace/garibaldi-trunk/mc",
+		"/home/clan/workspace/garibaldi-f20/recon-wrapper",
+		"/home/clan/workspace/garibaldi-f20/ufo",
+		"/home/clan/workspace/garibaldi-f20/opalkelly",
+		"/home/clan/workspace/garibaldi-f20/libFQ",
+		"/home/clan/workspace/garibaldi-f20/EdmReader",
+		"/home/clan/workspace/garibaldi-f20/cmake",
+		"/home/clan/workspace/garibaldi-f20/ORCDatachain",
+		"/home/clan/workspace/garibaldi-f20/scripts",
+		"/home/clan/workspace/garibaldi-f20/mc",
+		"/home/clan/workspace/garibaldi-f20"
+	],
+	"last_version": 3065,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ORC_IN",
+						"ORC_INSTALL_PREFIX"
+					],
+					[
+						"ORC_",
+						"ORC_INSTALL_DIR"
+					],
+					[
+						"ORC",
+						"ORC_INSTALL_DIR"
+					],
+					[
+						"gari",
+						"garibaldi-trunk"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 345.0,
+				"selected_items":
+				[
+					[
+						"proj",
+						"Simple Project Manager: Add Project"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 133.0,
+				"history":
+				[
+					"platform.node()",
+					"import platform",
+					"import project"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORCObject.cpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORCObject.hpp",
+				"/home/clan/workspace/garibaldi-trunk/scripts/launcher_modules/eclipse.py",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ProcessMonitorObject.cpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ProcessMonitorObject.hpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORC.sm",
+				"/home/clan/Documents/interview notes",
+				"/home/clan/workspace/garibaldi-trunk/mc/IDL/sysdata.thrift",
+				"/home/clan/workspace/garibaldi-trunk/mc/IDL/syscontrol.thrift",
+				"/home/clan/machine_setup/sublime-text-3/Packages/User/Simple Project Manager.sublime-settings",
+				"/home/clan/workspace/garibaldi-f20/ORCDatachain/pipeDataChain/CMakeLists.txt",
+				"/home/clan/workspace/garibaldi-f20/ORCDatachain/pipeDataChain/goblinReceiver2.cpp",
+				"/home/clan/workspace/garibaldi-f20/EdmReader/EdmFunctions.cpp",
+				"/home/clan/Downloads/BHSLogLibrary.diff",
+				"/home/clan/Documents/feng_gao.txt"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"CheckOperat",
+					"Launch",
+					"orcsc",
+					"launcher",
+					"LaunchProcesses",
+					"Kill",
+					"ORC_CONTEXT",
+					"_q",
+					"Shutdown",
+					"Init",
+					"OnlineCheck",
+					"Ping",
+					"UpdateBB",
+					"orcobj",
+					"garibaldi-f20",
+					"runmacro",
+					"readUSBMapFile",
+					"serialDetMap"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"DATACHAIN_CONTEXT"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"curr",
+						"curr_time"
+					],
+					[
+						"sche",
+						"scheduledFilename"
+					],
+					[
+						"roll",
+						"rollover"
+					],
+					[
+						"get",
+						"gettimeofday"
+					],
+					[
+						"ORC_IN",
+						"ORC_INSTALL_PREFIX"
+					],
+					[
+						"ORC_",
+						"ORC_INSTALL_DIR"
+					],
+					[
+						"ORC",
+						"ORC_INSTALL_DIR"
+					],
+					[
+						"gari",
+						"garibaldi-trunk"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\n- background\n\n\n \n- fizzbuzz (test communication, simple logic) http://en.wikipedia.org/wiki/Fizz_buzz\n\n- struct vs class\n\n- singleton?\n\n- OOP principles: inheritance, polymorphism, encapsulation\n\n- how would you prevent copying of a class (OOP)\n\n- subclass and override functions (OOP)\n\n- hash table using STL (c++ skills), assume hash function is given\n\n- prevent resource deadlock between threads (has exp. in multithread)\n\n- merge sort?\n\n- parallelized merge sort (or any sort, if not familiar with mergesort) (maybe better for in-person interview, should be able to do this given multithread/high experience level)\n`\n- what does this do?\n\nstruct A {\n	struct A* _a;\n}\n\nvoid foo(struct A* c, struct A* b)\n{\n	struct A* d = b._a;\n	b._a = c;\n	c._a = d;\n}\n\nstruct A* a;\nstruct A* e;\n\nfoo(e);\n\n- can you implement a basic stack/queue in assembly?\n\n- challenges developing on embedded linux?\n\n- challenges developing on FPGA?\n\n- python question: what does this do?\n\ndef joinkeys(a_dict, use_list=[]):\n     use_list.extend(a_dict.keys())\n     return ', '.join(use_list)\n\nprint joinkeys({'a':1, 'b':2})\nprint joinkeys({'c':3, 'd':4})\n\n- how would you implement...\n\n- a hash table - can use standard python/c++ structs, assume hash function is already implemented\n  - how would you store the result of a hash function?\n- a cache\n- a queue\n- shortest path?\n- a web page given a directory with html files\n- string word reverser\n\n\noffline question\n\nDesign and implement a cache class which has, at a minimum, the following functionality:\n\n- write-back on store (if not the main data store, see below)\n- fetch\n- cache miss handling\n- cache any type of data (basic data types, other classes)\n- variable cache size\n- able to be used as either a main data store or a smaller cache which attempts to access the data store on a cache miss.\n\nPerformance will not be an issue - this is obviously not the best way of doing these types of operations!\n",
+					"file": "/home/clan/Documents/interview_questions.txt",
+					"file_size": 1929,
+					"file_write_time": 130554682238869273,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 345.0,
+				"selected_items":
+				[
+					[
+						"proj",
+						"Simple Project Manager: Add Project"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 133.0,
+				"history":
+				[
+					"platform.node()",
+					"import platform",
+					"import project"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/clan/workspace/log/artf2852/LogIF"
+			],
+			"file_history":
+			[
+				"/home/clan/Downloads/cache_offline/cache.py",
+				"/home/clan/workspace/log/artf2852/LogIF/BaseFileAppender.hpp",
+				"/home/clan/workspace/log/artf2852/LogIF/DailyAppender.hpp",
+				"/home/clan/workspace/log/artf2852/LogIF/DailyAppender.cpp",
+				"/home/clan/Documents/interview_questions.txt",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORCObject.cpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORCObject.hpp",
+				"/home/clan/workspace/garibaldi-trunk/scripts/launcher_modules/eclipse.py",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ProcessMonitorObject.cpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ProcessMonitorObject.hpp",
+				"/home/clan/workspace/garibaldi-trunk/mc/lib/libSC/5800/ORC.sm",
+				"/home/clan/Documents/interview notes",
+				"/home/clan/workspace/garibaldi-trunk/mc/IDL/sysdata.thrift",
+				"/home/clan/workspace/garibaldi-trunk/mc/IDL/syscontrol.thrift",
+				"/home/clan/machine_setup/sublime-text-3/Packages/User/Simple Project Manager.sublime-settings",
+				"/home/clan/workspace/garibaldi-f20/ORCDatachain/pipeDataChain/CMakeLists.txt",
+				"/home/clan/workspace/garibaldi-f20/ORCDatachain/pipeDataChain/goblinReceiver2.cpp",
+				"/home/clan/workspace/garibaldi-f20/EdmReader/EdmFunctions.cpp",
+				"/home/clan/Downloads/BHSLogLibrary.diff",
+				"/home/clan/Documents/feng_gao.txt"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"open(",
+					"getFilename",
+					"rollover(",
+					"rollover",
+					"CheckOperat",
+					"Launch",
+					"orcsc",
+					"launcher",
+					"LaunchProcesses",
+					"Kill",
+					"ORC_CONTEXT",
+					"_q",
+					"Shutdown",
+					"Init",
+					"OnlineCheck",
+					"Ping",
+					"UpdateBB",
+					"orcobj",
+					"garibaldi-f20",
+					"runmacro",
+					"readUSBMapFile",
+					"serialDetMap"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"DATACHAIN_CONTEXT"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/clan/Documents/interview_questions.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1932,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1812,
+										1812
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 630.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "log.sublime-project",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": "/home/clan/workspace/log/artf2852/log.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/clan/workspace/log/artf2852/log.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Bracketeer",
+		"C++11",
+		"CMake",
+		"CMakeSnippets",
+		"Delete Lines",
+		"DoxyDoc",
+		"Find++",
+		"Keymaps",
+		"Modific",
+		"RPM Spec Syntax",
+		"Search in Project",
+		"Simple Project Manager",
+		"Sublime Text 3 Snippets",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-pylint",
+		"Theme - Centurion",
+		"ThriftSyntax",
+		"Toks",
+		"Zen Tabs"
+	]
+}
