@@ -1,1 +1,1 @@
-vim meld ack nmap guake astyle iperf subversion cmake git
+vim meld ack nmap guake astyle iperf subversion cmake git clang
