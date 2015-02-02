@@ -27,4 +27,6 @@
       path:   svn-servers
 
 - shell:
+  - [git submodule init, Initializing submodules]
   - [git submodule update --recursive, Installing/updating submodules]
+  - [sudo yum install -y `cat packages`, Installing packages]
