@@ -1,32 +1,32 @@
 [submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
+	path = vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/syntastic"]
-	path = bundle/syntastic
+	path = vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/Spacegray.vim"]
-	path = bundle/Spacegray.vim
+	path = vim/bundle/Spacegray.vim
 	url = https://github.com/ajh17/Spacegray.vim.git
 [submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
+	path = vim/bundle/vim-airline
 	url = https://github.com/bling/vim-airline
 [submodule "bundle/ack.vim"]
-	path = bundle/ack.vim
+	path = vim/bundle/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/DoxygenToolkit.vim"]
-	path = bundle/DoxygenToolkit.vim
+	path = vim/bundle/DoxygenToolkit.vim
 	url = https://github.com/mrtazz/DoxygenToolkit.vim
 [submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
+	path = vim/bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/tabular"]
-	path = bundle/tabular
+	path = vim/bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
 [submodule "base16-gnome-terminal"]
 	path = base16-gnome-terminal
 	url = https://github.com/chriskempson/base16-gnome-terminal.git
 [submodule "bundle/base16-vim"]
-	path = bundle/base16-vim
+	path = vim/bundle/base16-vim
 	url = https://github.com/chriskempson/base16-vim.git
 [submodule "dotbot"]
 	path = dotbot
