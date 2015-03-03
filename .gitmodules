@@ -37,9 +37,9 @@
 [submodule "vim/bundle/vimproc.vim"]
 	path = vim/bundle/vimproc.vim
 	url = https://github.com/Shougo/vimproc.vim.git
-[submodule "vim/bundle/neocomplcache.vim"]
-	path = vim/bundle/neocomplcache.vim
-	url = https://github.com/Shougo/neocomplcache.vim.git
 [submodule "vim/bundle/unite-session"]
 	path = vim/bundle/unite-session
 	url = https://github.com/Shougo/unite-session.git
+[submodule "vim/bundle/YouCompleteMe"]
+	path = vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
