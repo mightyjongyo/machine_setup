@@ -41,6 +41,7 @@ function gsquash {
 
 function co_collab {
   path=$2
+  dest=$3
   if [ "$path" != "trunk" ]
   then
     path="https://mdi.collab.net/svn/repos/$1/branches/$2"
@@ -48,7 +49,7 @@ function co_collab {
     path="https://mdi.collab.net/svn/repos/$1/$2"
   fi
   echo "Checking out $path"
-  svn co $path
+  svn co $path $dest
 }
 
 function branch_collab {
