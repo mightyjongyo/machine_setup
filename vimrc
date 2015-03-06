@@ -1,3 +1,6 @@
+" Set disabled plugins
+let g:pathogen_disabled = ['YouCompleteMe']
+
 " Load plugins
 execute pathogen#infect()
 
@@ -6,15 +9,17 @@ let mapleader = "\\"
 
 set mouse=a
 set colorcolumn=80
-set tabstop=2
-set softtabstop=2
-set shiftwidth=2
+" set tabstop=2
+" set softtabstop=2
+" set shiftwidth=2
+filetype plugin indent on
 set incsearch
 set ignorecase
 set smartcase
 set hlsearch
 set expandtab
 set autoindent
+set number
 syntax on 
 
 nmap <Leader>q :nohlsearch<CR>
@@ -51,5 +56,4 @@ nmap <Leader>ub :Unite -start-insert bookmark<CR>
 nmap <Leader>b :UniteBookmarkAdd<CR>
 nmap <space>/ :Unite grep:.<cr>
 
-" neocomplete cache settings
-let g:neocomplcache_enable_at_startup = 1
+
