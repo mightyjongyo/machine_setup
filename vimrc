@@ -5,7 +5,9 @@ let g:pathogen_disabled = ['YouCompleteMe']
 execute pathogen#infect()
 
 " Set the <Leader>
-let mapleader = "\\"
+let mapleader = ","
+noremap ; :
+noremap <M-;> ;
 
 set mouse=a
 set colorcolumn=80
@@ -56,4 +58,7 @@ nmap <Leader>ub :Unite -start-insert bookmark<CR>
 nmap <Leader>b :UniteBookmarkAdd<CR>
 nmap <space>/ :Unite grep:.<cr>
 
+" Binding to start vimshell
+nmap <Leader>s :VimShellTab
+nmap <Leader>qs :VimShellClose
 
