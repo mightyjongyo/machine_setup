@@ -1,5 +1,5 @@
 " Set disabled plugins
-let g:pathogen_disabled = ['YouCompleteMe']
+let g:pathogen_disabled = ['YouCompleteMe','syntastic']
 
 " Load plugins
 execute pathogen#infect()
@@ -22,7 +22,7 @@ set hlsearch
 set expandtab
 set autoindent
 set number
-syntax on 
+syntax on
 
 nmap <Leader>q :nohlsearch<CR>
 

@@ -1,18 +1,18 @@
-# .bashrc                                                                       
-                                                                                
-# Source global definitions                                                     
-if [ -f /etc/bashrc ]; then                                                     
-    . /etc/bashrc                                                                 
-fi                                                                              
-                                                                                  
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
-# export SYSTEMD_PAGER=                                                 
+# export SYSTEMD_PAGER=
 
 #This file contains aliases that may be useful accorss all machines.
 #SVN alises
 alias ss='svn status -u'
-alias scd='cd `svn info | grep "Working Copy" | cut -d ':' -f 2 -`'             
-alias slog='svn log -l' 
+alias scd='cd `svn info | grep "Working Copy" | cut -d ':' -f 2 -`'
+alias slog='svn log -l'
 alias sdiff='svn diff -x -w'
 
 #bash aliases
@@ -25,19 +25,19 @@ function sublime {
   /usr/local/bin/sublime $@ &
 }
 
-# git aliases                                                                   
-alias gs='git status -sb'                                                       
+# git aliases
+alias gs='git status -sb'
 alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset)' --abbrev-commit --date=relative"
-alias gcd='cd $(git rev-parse --show-toplevel)'                                 
-alias glogf="git log --name-only --pretty=oneline"                              
-alias glogd="git log -p"                                                        
-alias gd='git difftool -y'                                                      
-alias gb='git branch -a -v'                                                     
-alias gsdiff='git diff --no-prefix'                                             
-                                                                                
-function gsquash {                                                              
-  git reset --soft HEAD~$1 && commit                                            
-}                                                                               
+alias gcd='cd $(git rev-parse --show-toplevel)'
+alias glogf="git log --name-only --pretty=oneline"
+alias glogd="git log -p"
+alias gd='git difftool -y'
+alias gb='git branch -a -v'
+alias gsdiff='git diff --no-prefix'
+
+function gsquash {
+  git reset --soft HEAD~$1 && commit
+}
 
 function co_collab {
   path=$2
