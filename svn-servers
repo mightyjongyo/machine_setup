@@ -117,7 +117,7 @@ collabnet = *.collab.net
 
 ### Information for the first group:
 [collabnet]
-http-proxy-host = 10.21.14.249
+http-proxy-host = master-proxy
 http-proxy-port = 9090
 # http-proxy-username = blah
 # http-proxy-password = doubleblah
