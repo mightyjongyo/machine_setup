@@ -11,8 +11,9 @@ fi
 #This file contains aliases that may be useful accorss all machines.
 #SVN alises
 alias ss='svn status -u'
+alias sup='svn update'
 alias scd='cd `svn info | grep "Working Copy" | cut -d ':' -f 2 -`'
-alias slog='svn log -l'
+alias slog='svn log -v -l'
 alias sdiff='svn diff -x -w'
 
 #bash aliases
