@@ -111,14 +111,14 @@
 ### section with the corresponding name on the left.
 
 [groups]
-collabnet = *.collab.net
+#collabnet = *.collab.net
 # othergroup = repository.blarggitywhoomph.com
 # thirdgroup = *.example.com
 
 ### Information for the first group:
 [collabnet]
-http-proxy-host = master-proxy
-http-proxy-port = 9090
+#http-proxy-host = master-proxy
+#http-proxy-port = 9090
 # http-proxy-username = blah
 # http-proxy-password = doubleblah
 # http-timeout = 60
