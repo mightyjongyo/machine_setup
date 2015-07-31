@@ -27,7 +27,7 @@ function sublime {
 }
 
 function mk_feat {
-  mkdir -p $1 && cp .svntool $1 && sed -i "s/artf[0-9]+/$1/g" $1/.svntool
+  mkdir -p $1 && cp .svntool $1 && sed -i "s/artf[0-9]*/$1/g" $1/.svntool
 }
 
 # git aliases

@@ -62,3 +62,4 @@ nmap <space>/ :Unite grep:.<cr>
 nmap <Leader>s :VimShellTab
 nmap <Leader>qs :VimShellClose
 
+map <Leader><Esc> ~
