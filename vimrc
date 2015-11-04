@@ -26,9 +26,8 @@ syntax on
 
 nmap <Leader>q :nohlsearch<CR>
 
-set background=dark
+" set background=dark
 let base16colorspace=256
-colorscheme spacegray
 
 " Use 256 term color of available
 if $TERM == "xterm-256color" || $TERM == "screen-256color" || $COLORTERM == "gnome-terminal"

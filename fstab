@@ -1,0 +1,1 @@
+clan@101.168.56.1:/home/clan/workspace /home/mdi/workspace fuse.sshfs _netdev,allow_other  0 0 
