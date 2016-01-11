@@ -5,6 +5,8 @@ if [ -f /etc/bashrc ]; then
     . /etc/bashrc
 fi
 
+eval "$(thefuck --alias)"
+
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
@@ -21,6 +23,10 @@ alias lh='ls -lh'
 alias standardize='astyle --style=allman -n -s2 -v -c'
 alias vi='vim'
 #alias vim='vim -p'
+#alias yum='yum-deprecated'
+#alias dnf='yum-deprecated'
+
+alias igrep='grep -i'
 
 function sublime {
   /usr/local/bin/sublime $@ &
