@@ -6,6 +6,7 @@ if [ -f /etc/bashrc ]; then
 fi
 
 #eval "$(thefuck --alias)"
+alias calc='bc'
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
@@ -17,6 +18,8 @@ alias sup='svn update'
 alias scd='cd `svn info | grep "Working Copy" | cut -d ':' -f 2 -`'
 alias slog='svn log -v -l'
 alias sdiff='svn diff -x -w'
+alias updoot='sudo dnf update'
+alias doodoo='rm -rf'
 
 #bash aliases
 alias lh='ls -lh'
