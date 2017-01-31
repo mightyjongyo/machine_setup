@@ -11,6 +11,14 @@ alias calc='bc'
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
+#Powerline
+if [ -f `which powerline-daemon` ]; then
+  powerline-daemon -q
+  POWERLINE_BASH_CONTINUATION=1
+  POWERLINE_BASH_SELECT=1
+  . /usr/share/powerline/bash/powerline.sh
+fi
+
 #This file contains aliases that may be useful accorss all machines.
 #SVN alises
 alias ss='svn status -u'
@@ -20,6 +28,7 @@ alias slog='svn log -v -l'
 alias sdiff='svn diff -x -w'
 alias updoot='sudo dnf update'
 alias doodoo='rm -rf'
+alias fuck='sudo'
 
 #bash aliases
 alias lh='ls -lh'

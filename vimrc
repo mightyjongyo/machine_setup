@@ -9,6 +9,10 @@ let mapleader = ","
 noremap ; :
 noremap <M-;> ;
 
+python3 from powerline.vim import setup as powerline_setup
+python3 powerline_setup()
+python3 del powerline_setup
+
 set mouse=a
 set colorcolumn=80
 " set tabstop=2
@@ -44,7 +48,7 @@ nmap <Leader>e :NERDTreeToggle<CR>
 nmap <Leader>d :bp<bar>sp<bar>bn<bar>bd<CR>
 command Bd bp | sp | bn | bd
 
-let g:airline#extensions#tabline#enabled = 1
+" let g:airline#extensions#tabline#enabled = 1
 
 " Tabularize shortcuts
 nmap <Leader>a= :Tabularize /=<CR>

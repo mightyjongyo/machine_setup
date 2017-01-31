@@ -7,9 +7,6 @@
 [submodule "bundle/Spacegray.vim"]
 	path = vim/bundle/Spacegray.vim
 	url = https://github.com/ajh17/Spacegray.vim.git
-[submodule "bundle/vim-airline"]
-	path = vim/bundle/vim-airline
-	url = https://github.com/bling/vim-airline
 [submodule "bundle/ack.vim"]
 	path = vim/bundle/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
@@ -55,3 +52,6 @@
 [submodule "vim/bundle/ansible-vim"]
 	path = vim/bundle/ansible-vim
 	url = git://github.com/pearofducks/ansible-vim
+[submodule "vim/bundle/vim-javascript-syntax"]
+	path = vim/bundle/vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax
