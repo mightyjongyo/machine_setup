@@ -6,6 +6,9 @@
     ~/.bashrc:
       force: true
       path:  bashrc
+    ~/.bash_profile:
+      force: true
+      path: bash_profile
     ~/.vim:
       force: true
       create: true
