@@ -19,6 +19,9 @@
 #    ~/.config/sublime-text-3:
 #      create: true
 #      path:   sublime-text-3/
+    ~/.config/powerline:
+      create: true
+      path:   powerline-config/
     ~/.subversion/config:
       create: true
       force:  true

@@ -1,0 +1,24 @@
+{
+	"segment_data": {
+                "date": {
+                        "args": {
+                                "format": "%m-%d-%Y",
+                                "istime": true
+                        }
+                },
+                "battery": {
+                },
+		"hostname": {
+			"args": {
+				"only_if_ssh": true
+			}
+		},
+		"cwd": {
+			"args": {
+				"dir_limit_depth": 3,
+                                "dir_shorten_len": 20,
+                                "use_path_separator": true
+			}
+		}
+	}
+}
