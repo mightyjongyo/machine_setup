@@ -54,9 +54,9 @@ alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C
 alias gcd='cd $(git rev-parse --show-toplevel)'
 alias glogf="git log --name-only --pretty=oneline"
 alias glogd="git log -p"
-alias gd='git difftool -y'
+alias gdt='git difftool -y'
 alias gb='git branch -a -v'
-alias gsdiff='git diff --no-prefix'
+alias gd='git diff --no-prefix'
 
 function gsquash {
   git reset --soft HEAD~$1 && commit
