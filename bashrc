@@ -8,6 +8,9 @@ fi
 #eval "$(thefuck --alias)"
 alias calc='bc'
 
+# Shit I type wrong all the type
+alias ks='ls'
+
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
