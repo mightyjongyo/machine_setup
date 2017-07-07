@@ -41,6 +41,10 @@ alias vi='vim'
 #alias yum='yum-deprecated'
 #alias dnf='yum-deprecated'
 
+#docker aliases
+alias docker-clean-images="docker images | grep \"<none>.*<none>\" | awk '{print \$3}' | xargs docker rmi "
+alias docker-clean-ps="docker ps -a | grep Exited | awk '{print \$1}' | xargs docker rm "
+
 alias igrep='grep -i'
 
 function sublime {
